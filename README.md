@@ -1,2 +1,2 @@
-# Comparaci-n-de-Rankings-de-Pel-culas---An-lisis-de-Algoritmos
+# Comparacion-de-Rankings-de-Peliculas---Analisis-de-Algoritmos
 Proyecto de Análisis de Algoritmos para comparar rankings de películas utilizando Merge Sort y conteo de inversiones en Python.

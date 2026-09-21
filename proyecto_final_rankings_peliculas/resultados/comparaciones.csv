@@ -1,0 +1,7 @@
+﻿Criterio A,Criterio B,Inversiones,Diferencia (%)
+Tomatometer %,Fresh,244,41.01
+Tomatometer %,Rotten,435,73.11
+Tomatometer %,Popcornmeter %,207,34.79
+Fresh,Rotten,193,32.44
+Fresh,Popcornmeter %,225,37.82
+Rotten,Popcornmeter %,328,55.13
